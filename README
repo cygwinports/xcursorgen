@@ -1,6 +1,6 @@
 xcursorgen
 ------------------------------------------
-Xorg X cursor file generator
+X.Org X cursor file generator
 
 Runtime requirements:
   cygwin-1.5.24-2

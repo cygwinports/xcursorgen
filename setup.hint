@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libXcursor1 libpng12
-sdesc: "Xorg X cursor file generator"
-ldesc: "Xorg X cursor file generator"
+sdesc: "X.Org X cursor file generator"
+ldesc: "X.Org X cursor file generator"
