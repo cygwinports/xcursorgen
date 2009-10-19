@@ -1,4 +1,4 @@
 category: X11
-requires: libX11_6 libXcursor1 libpng12
+requires: libgcc1 libpng12 libX11_6 libXcursor1
 sdesc: "X.Org X cursor file generator"
 ldesc: "X.Org X cursor file generator"
