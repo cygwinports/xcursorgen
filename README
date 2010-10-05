@@ -30,22 +30,22 @@ Canonical download:
 -------------------------------------------
 
 Build instructions:
-  unpack xcursorgen-1.0.3-X-src.tar.bz2
+  unpack xcursorgen-1.0.4-X-src.tar.bz2
     if you use setup to install this src package, it will be
 	 unpacked under /usr/src automatically
   cd /usr/src
-  cygport ./xcursorgen-1.0.3-X.cygport all
+  cygport ./xcursorgen-1.0.4-X.cygport all
 
 This will create:
-  /usr/src/xcursorgen-1.0.3-X-src.tar.bz2
-  /usr/src/xcursorgen-1.0.3-X.tar.bz2
+  /usr/src/xcursorgen-1.0.4-X-src.tar.bz2
+  /usr/src/xcursorgen-1.0.4-X.tar.bz2
 
 -------------------------------------------
 
 Port Notes:
 
------ version 1.0.3-2 -----
-Rebuilt for libpng14.
+----- version 1.0.4-1 -----
+Version bump for X11R7.6.
 
 ----- version 1.0.3-1 -----
 Version bump for X11R7.5.
