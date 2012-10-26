@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="xcursorgen"
+VERSION=1.0.5
+RELEASE=2
+CATEGORY="X11"
+SUMMARY="X.Org X cursor file generator"
+DESCRIPTION="xcursorgen prepares X11 cursor sets for use with libXcursor."
